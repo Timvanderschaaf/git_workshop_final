@@ -6,3 +6,5 @@ Created on Wed Nov 23 16:30:49 2022
 """
 
 print('Hello world!')
+
+print('Message received')
