@@ -1,0 +1,17 @@
+Repository: environment in which you save your code
+Left top: new repository, click on readme file and add description
+
+then Code <>
+https://github.com/Timvanderschaaf/git_workshop.git --> Git link to repository
+
+How can we install this locacally on your PC?
+Go to some place on your PC, right click and choose 'GIT GUI here'
+
+Source location: git link
+Target directory: file on PC where you want to store it
+
+Target directory: klik op een locatie en voeg zelf \naam van nieuwe map toe
+
+Save code with changes,
+
+Then stage code. Staging = nominate code to be committed. By going to branch, click on + (stage)
